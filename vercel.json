@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NODE_OPTIONS": "--openssl-legacy-provider"
+  },
+  "build": {
+    "env": {
+      "NPM_CONFIG_YARN": "false"
+    }
+  }
+}
